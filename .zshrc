@@ -94,4 +94,3 @@ export NVM_DIR="/Users/leszek/.nvm"
 export LC_ALL=en_US.UTF-8
 export LANG=en_US.UTF-8
 
-export HOMEBREW_GITHUB_API_TOKEN="269d092c40f1904834117a75aa098ac921fc3706"
